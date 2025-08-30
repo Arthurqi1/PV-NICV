@@ -20,7 +20,7 @@ Yue.Qi@glasgow.ac.uk
 
 ## 📑 Data Source
 
-The raw dataset (`2021PV15min.csv`) originates from **official on-site measurements in a certain region of China**.  
+The raw dataset (2021PV15min.csv) originates from **official on-site measurements in a certain region of China**.  
 It represents one full year (2021) of 15-minute resolution PV meteorological and irradiance data with 17 features plus 1 actual power output column.  
 
 Usage of this dataset is intended **for academic research and educational purposes only**.  
