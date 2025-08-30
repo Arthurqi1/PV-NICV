@@ -163,7 +163,7 @@ run('main.m');
 ![GHI–Power Robust RANSAC](figures/Fig6_GHI–Power_Robust_RANSAC.png)
 
 *Feature–Power Correlations (Before vs After Cleaning)*
-![PV Feature–Power Correlations](figures/Fig7_PV_Feature–Power_Correlations_Before_vs_After.png)
+![PV Feature–Power Correlations](figures/Fig7_PV_Feature–Power_Correlations.png)
 
 ---
 
